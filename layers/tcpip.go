@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/google/gopacket"
+	"github.com/jpicht/gopacket"
 )
 
 // Checksum computation for TCP/UDP.
